@@ -5,8 +5,8 @@ A 19 yr old student from the university of yaoundé I, mostly spend my free time
 
 - **Plan 9**, **FreeBSD**, **DragonFlyBSD**, **OpenBSD**, **Debian**, **Arch**, **Alpine**, and **Nixos**.
 
-- **Suckless tools**, **Vim/Nvim/Jed/Ne**, ...
+- **Suckless tools**, **Vim/Nvim/Jed/Ne**, **Tmux**, ...
 
-- **Perl**, **C/C++**, **Sh/Bash/Rc**, **Go**, and **Python**
+- **Perl**, **C/C++**, **Php**, **Sh/Bash/Rc**, **Go**, **Python**, and **JS**.
 ## Contact me
  [Telegram](https://t.me/kueppo)   [Matrix](soon)     [Twitter](soon)     [Reddit](soon)
