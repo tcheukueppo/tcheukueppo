@@ -1,7 +1,7 @@
 # Hi friends, I'm KUEPPO TCHEUKAM
 A 19 yr old student from the university of yaoundé I, mostly spend my free time reading books in order to learn and accomplish more in CS **:)**.
 
-## List of Operating systems, tools, Programming langauges I mostly deal with
+## List of Operating systems, tools, and Programming langauges I mostly deal with
 
 ### Operating Systems
 **Plan 9**, **FreeBSD**, **DragonFlyBSD**, **OpenBSD**, **Debian**, **Arch**, **Alpine**, and **Nixos**.
