@@ -9,4 +9,4 @@ A 19 yr old student from the university of yaoundé I, mostly spend my free time
 
 - **Perl**, **C/C++**, **Sh/Bash/Rc**, **Go**, and **Python**
 ## Contact me
- [Telegram](https://t.me/kueppo)
+ [Telegram](https://t.me/kueppo) [Matrix](soon) [twitter](soon) [reddit](soon)
