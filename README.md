@@ -1,4 +1,4 @@
-# Hi friends, I'm Kueppo
+# Hi friends, I'm KUEPPO TCHEUKAM
 A 19 yr old student from the university of yaoundé I, mostly spend my free time reading books in order to learn and accomplish more in CS **:)**.
 
 ## List of Operating systems, tools, Programming langauges I mostly deal with
