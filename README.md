@@ -12,14 +12,14 @@ A 19 yr old student from the university of yaoundé I, I spend my free time read
 - Alpine
 - Nixos
 
-### Tools
+### Tools
 - Suckless tools
-- vim/nvim/jed/ne
+- Vim/Nvim/Jed/Ne
 - many more
 
 ### Programming Languages
-- C/C++
 - Perl
-- Sh/Bash
+- C/C++
+- Sh/Bash/Rc
 - Go
-- python
+- Python
