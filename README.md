@@ -3,7 +3,8 @@ I'm a 19 yr old student from the university of yaoundé I, I spend my free time 
 
 ## List Operating systems and tools I mostly use
 
-### OS
+### Operating Systems
+- Plan 9
 - FreeBSD
 - DragonFlyBSD
 - OpenBSD
