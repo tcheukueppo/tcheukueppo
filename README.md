@@ -5,7 +5,7 @@ A 19 yr old student from the university of yaoundé I, mostly spend my free time
 
 - **Plan 9**, **FreeBSD**, **DragonFlyBSD**, **OpenBSD**, **Debian**, **Arch**, **Alpine**, and **Nixos**.
 
-- **Suckless tools**, **Vim/Nvim/Jed/Ne**, **Tmux**, ...
+- **Suckless tools**, **Vim/Nvim/Jed/Ne**, **Tmux**, ...etc.
 
 - **Perl**, **C/C++**, **Php**, **Sh/Bash/Rc**, **Go**, **Python**, and **JS**.
 ## Contact
