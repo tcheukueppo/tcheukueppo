@@ -1,5 +1,5 @@
 # Hi friends I'm Kueppo
-A 19 yr old student from the university of yaoundé I, I spend my free time reading books in order to learn and accomplish more in CS **:)**.
+I'm a 19 yr old student from the university of yaoundé I, I spend my free time reading books in order to learn and accomplish more in CS **:)**.
 
 ## List Operating systems and tools I mostly use
 
@@ -15,7 +15,7 @@ A 19 yr old student from the university of yaoundé I, I spend my free time read
 ### Tools
 - Suckless tools
 - Vim/Nvim/Jed/Ne
-- many more
+- Many more
 
 ### Programming Languages
 - Perl
