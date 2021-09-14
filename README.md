@@ -3,7 +3,7 @@ A 19 yr old student from the university of yaoundé I, mostly spend my free time
 
 ## List of Operating systems, Tools, and Programming Langauges I mostly deal with
 
-- **Plan 9**, **FreeBSD**, **DragonFlyBSD**, **OpenBSD**, **Debian**, **Arch**, **Alpine**, and **Nixos**.
+- **Plan9**, **FreeBSD**, **DragonFlyBSD**, **OpenBSD**, **Debian**, **Arch**, **Alpine**, and **Nixos**.
 
 - **Suckless tools**, **Vim/Nvim/Jed/Ne**, **Tmux**, ... etc.
 
