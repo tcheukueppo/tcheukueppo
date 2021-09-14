@@ -7,6 +7,6 @@ A 19 yr old student from the university of yaoundé I, mostly spend my free time
 
 - **Suckless tools**, **Vim/Nvim/Jed/Ne**, **Tmux**, ... etc.
 
-- **Perl**, **Lua**, **C/C++**, **Php**, **Sh/Bash/Rc**, **Go**, **Python**, and **JS**.
+- **Sh/Bash/Rc**, **Perl**, **Lua**, **C/C++**, **Php**, **Go**, **Python**, and **JS**.
 ## Contact
 [Telegram](https://t.me/kueppo)   [Matrix](soon)     [Twitter](soon)     [Reddit](soon)
