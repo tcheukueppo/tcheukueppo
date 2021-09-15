@@ -1,5 +1,5 @@
 <p align="center">
-  <img height=50% width=50% src="https://images.wallpaperscraft.com/image/single/space_star_bright_sky_495_1600x900.jpg">
+  <img height=30% width=30% src="https://images.wallpaperscraft.com/image/single/space_art_spiral_star_glow_94003_1600x900.jpg">
 </p>
 
 <p align="center">
