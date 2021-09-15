@@ -31,3 +31,16 @@
 # Overview of what I've done so far
 
 </div>
+
+### Suckless tools
+
+  - [kdwm](https://github.com/r/lspsaga.nvim) window manager
+  - [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) a highliy custom support neovim stautsline
+  - [indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) neovim indent plugins
+  - [prodoc.nvim](https://github.com/glepnir/prodoc.nvim) neovim comment and
+    annotation plugin
+  - [nvim](https://github.com/glepnir/nvim) My personal neovim config with lots of person hack and
+    all written in lua.
+  - [zephyr-nvim](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua
+  - [lsp_extensions.nvim](https://github.com/nvim-lua/lsp_extensions.nvim) Neovim built-in lsp extensions
+  - [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) nvim lua guide Chinese version
