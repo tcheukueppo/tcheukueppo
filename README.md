@@ -26,4 +26,4 @@
 <img src="https://img.shields.io/badge/javascript-%23f7a41d.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-<div align="center" >Overview of what I've done so far</div>
+<div align="center" >Overview</div>
