@@ -1,5 +1,5 @@
-<p align="center" font-size=10%>
-  KUEPPO
+<p align="center">
+  <img src="https://wallpaperscraft.com/download/space_star_bright_sky_495/1600x900">
 </p>
 
 <p align="center">
