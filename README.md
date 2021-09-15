@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++%20-%23007ACC.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-%2357A143.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ## List of Operating systems, Tools, and Programming Langauges I mostly deal with
