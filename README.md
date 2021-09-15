@@ -25,6 +25,5 @@
 <img src="https://img.shields.io/badge/python-%2357A143.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23f7a41d.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
-<hr>
 
-## Overview of what I've done so far
+<div align="center" >Overview of what I've done so far</div>
