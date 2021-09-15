@@ -16,6 +16,7 @@
 <!--<b><a href="https://www.paypal.me/bobbyhub">Sponsor</a></b>-->
 </p>
 <p align="center">
+<img src="https://img.shields.io/badge/c-%2357A143.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/bash-%2300ADD8.svg?&style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/perl-%23020000.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
