@@ -1,5 +1,5 @@
 <p align="center">
-  <img height=60% width=30% src="https://images.wallpaperscraft.com/image/single/space_art_spiral_star_glow_94003_1600x900.jpg">
+  <img height=60% width=20% src="https://images.wallpaperscraft.com/image/single/space_art_spiral_star_glow_94003_1600x900.jpg">
 </p>
 <p align="center">
 <b><a href="https://blog.gopherhub.org"> My Blog </a></b>
