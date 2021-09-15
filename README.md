@@ -1,7 +1,20 @@
 <p align="center">
   <img height=60% width=30% src="https://images.wallpaperscraft.com/image/single/space_art_spiral_star_glow_94003_1600x900.jpg">
 </p>
-
+<p align="center">
+<b><a href="https://blog.gopherhub.org">My Blog</a></b>
+•
+<b><a href="https://github.com">Telegram</a></b>
+•
+<b><a href="https://github.com/neovim/neovim"> LinkedIn</a></b>
+•
+<b><a href="mailto:tcheukueppo@gmail.com"> Indeed</a></b>
+•
+<b><a href="mailto:tcheukueppo@gmail.com"> Reddit me</a></b>
+ •
+<b><a href="mailto:tcheukueppo@gmail.com"> Perl Jobs</a></b>
+<!--<b><a href="https://www.paypal.me/bobbyhub">Sponsor</a></b>-->
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/bash-%2300ADD8.svg?&style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/perl-%23020000.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
