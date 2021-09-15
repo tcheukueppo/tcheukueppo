@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperscraft.com/download/space_star_bright_sky_495/1600x900.png">
+  <img src="https://images.wallpaperscraft.com/image/single/space_star_bright_sky_495_1600x900.jpg">
 </p>
 
 <p align="center">
