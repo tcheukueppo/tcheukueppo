@@ -1,5 +1,5 @@
-<p align="center">
-  ### KUEPPO TCHEUKAM
+<p align="center" ont-size=10%>
+  KUEPPO TCHEUKAM
 </p>
 A 19 yr old student from the university of yaoundé I, mostly spend my free time reading books in order to learn and accomplish more in CS. Life isn't easy and **Never** give up **:)**.
 
