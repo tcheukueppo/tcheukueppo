@@ -4,8 +4,8 @@
 A 19 yr old student from the university of yaoundé I, mostly spend my free time reading books in order to learn and accomplish more in CS. Life isn't easy and **Never** give up **:)**.
 
 <p align="center">
-<img src="https://img.shields.io/badge/bash-%2300ADD8.svg?&style=for-the-badge&logo=shell&logoColor=white" />
-<img src="https://img.shields.io/badge/perl-%23000000.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
+<img src="https://img.shields.io/badge/bash-%2300ADD8.svg?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/perl-%23020000.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
