@@ -46,6 +46,6 @@
 
 <div align="center">
   
-# ToDo this new acedemic year
+# Todo this new academic year 2021-2022
 
 </div>
