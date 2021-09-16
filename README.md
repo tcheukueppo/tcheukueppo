@@ -34,15 +34,13 @@
 
 ### Suckless tools
 
-  - [kdwm](https://github.com/r/lspsaga.nvim) window manager
-  - [kst](https://github.com/glepnir/galaxyline.nvim) a highliy custom support neovim stautsline
-  - [kslock](https://github.com/glepnir/indent-guides.nvim) neovim indent plugins
-  - [kdmenu](https://github.com/glepnir/prodoc.nvim) neovim comment and
-    annotation plugin
-  - [kslstatus](https://github.com/glepnir/nvim) My personal neovim config with lots of person hack and
-    all written in lua.
-  - [ksent](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua
-  - [ktabbed](https://github.com/nvim-lua/lsp_extensions.nvim) Neovim built-in lsp extensions
+  - [kdwm](https://github.com/r/lspsaga.nvim) this is dwm with a lot features added
+  - [kst](https://github.com/glepnir/galaxyline.nvim) this is st with a lot featurss added
+  - [kslock](https://github.com/glepnir/indent-guides.nvim) this is slock with a lot featurss added
+  - [kdmenu](https://github.com/glepnir/prodoc.nvim) this is dmenu with a lot featurss added
+  - [kslstatus](https://github.com/glepnir/nvim) this is basic slstatus, nothing special added except my awesome config.h
+  - [ksent](https://github.com/glepnir/zephyr-nvim) this is sent with a lot featurss added
+  - [ktabbed](https://github.com/nvim-lua/lsp_extensions.nvim) this is tabbed with a lot featurss added
 
 <div align="center">
   
