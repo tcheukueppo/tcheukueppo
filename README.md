@@ -34,13 +34,14 @@
 
 ### Suckless tools
 
-  - [kdwm](https://github.com/tcheukueppo/kdwm) This is dwm with a lot features added
-  - [kst](https://github.com/tcheukueppo/kst) This is st with a lot featurss added
-  - [kslock](https://github.com/tcheukueppo/kslock) This is slock with a lot featurss added
-  - [kdmenu](https://github.com/tcheukueppo/kdmenu) This is dmenu with a lot featurss added
-  - [kslstatus](https://github.com/tcheukueppo/kslstatus) This is basic slstatus, nothing special added except my awesome config.h
-  - [ksent](https://github.com/tcheukueppo/ksent) This is sent with a lot featurss added
-  - [ktabbed](https://github.com/tcheukueppo/ktabbed) This is tabbed with a lot featurss added
+  - [kdwm](https://github.com/tcheukueppo/kdwm) This is [dwm](https://dwm.suckless.org/) with a lot features added
+  - [kst](https://github.com/tcheukueppo/kst) This is [st](https://st.suckless.org/) with a lot featurss added
+  - [kslock](https://github.com/tcheukueppo/kslock) This is [slock](https://tools.suckless.org/slock/) with a lot featurss added
+  - [kdmenu](https://github.com/tcheukueppo/kdmenu) This is [dmenu](https://tools.suckless.org/dmenu/) with a lot featurss added
+  - [kslstatus](https://github.com/tcheukueppo/kslstatus) This is basic [slstatus](https://tools.suckless.org/dmenu/), nothing special added except 
+  my awesome      config.h
+  - [ksent](https://github.com/tcheukueppo/ksent) This is [sent](https://tools.suckless.org/sent/) with a lot featurss added
+  - [ktabbed](https://github.com/tcheukueppo/ktabbed) This is [tabbed](https://tools.suckless.org/tabbed/) with a lot featurss added
 
 ### Scripts
 
