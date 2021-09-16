@@ -57,6 +57,6 @@
 - Build an ncurses-based system and network monitoring application in Go and Perl, making it accessible via http
 - Build conky themes in lua/perl/bash for monitoring, projects management, news, and many more, to do one every month
 - Build my own neovim and vis configuration entirely in lua with the most fastest plugins on earth
-- Build a custom themable prompt in python
+- Build a configurable prompt in python
 - Build my blog with bootstrap
 - Build a telegram bot for filtering cs related links
