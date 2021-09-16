@@ -28,7 +28,7 @@
 <br>
 <div align="center">
   
-# Overview of what I've done so far
+# Overview
 
 </div>
 
@@ -48,6 +48,6 @@
 
 <div align="center">
   
-# Todo this new academic year 2021-2022
+# Todo (2021-2022)
 
 </div>
