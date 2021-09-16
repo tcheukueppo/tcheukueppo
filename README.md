@@ -34,13 +34,17 @@
 
 ### Suckless tools
 
-  - [kdwm](https://github.com/r/lspsaga.nvim) this is dwm with a lot features added
-  - [kst](https://github.com/glepnir/galaxyline.nvim) this is st with a lot featurss added
-  - [kslock](https://github.com/glepnir/indent-guides.nvim) this is slock with a lot featurss added
-  - [kdmenu](https://github.com/glepnir/prodoc.nvim) this is dmenu with a lot featurss added
-  - [kslstatus](https://github.com/glepnir/nvim) this is basic slstatus, nothing special added except my awesome config.h
-  - [ksent](https://github.com/glepnir/zephyr-nvim) this is sent with a lot featurss added
-  - [ktabbed](https://github.com/nvim-lua/lsp_extensions.nvim) this is tabbed with a lot featurss added
+  - [kdwm](https://github.com/tcheukueppo/kdwm) This is dwm with a lot features added
+  - [kst](https://github.com/tcheukueppo/kst) This is st with a lot featurss added
+  - [kslock](https://github.com/tcheukueppo/kslock) This is slock with a lot featurss added
+  - [kdmenu](https://github.com/tcheukueppo/kdmenu) This is dmenu with a lot featurss added
+  - [kslstatus](https://github.com/tcheukueppo/kslstatus) This is basic slstatus, nothing special added except my awesome config.h
+  - [ksent](https://github.com/tcheukueppo/ksent) This is sent with a lot featurss added
+  - [ktabbed](https://github.com/tcheukueppo/ktabbed) This is tabbed with a lot featurss added
+
+### Scripts
+
+  - [taski](https://github.com/tcheukueppo/taski) Taski is a front-end to cli application use for daily activities
 
 <div align="center">
   
