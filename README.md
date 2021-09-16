@@ -36,11 +36,16 @@
 
   - [kdwm](https://github.com/r/lspsaga.nvim) window manager
   - [kst](https://github.com/glepnir/galaxyline.nvim) a highliy custom support neovim stautsline
-  - [kslstatus](https://github.com/glepnir/indent-guides.nvim) neovim indent plugins
-  - [k](https://github.com/glepnir/prodoc.nvim) neovim comment and
+  - [kslock](https://github.com/glepnir/indent-guides.nvim) neovim indent plugins
+  - [kdmenu](https://github.com/glepnir/prodoc.nvim) neovim comment and
     annotation plugin
-  - [k](https://github.com/glepnir/nvim) My personal neovim config with lots of person hack and
+  - [kslstatus](https://github.com/glepnir/nvim) My personal neovim config with lots of person hack and
     all written in lua.
-  - [k](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua
-  - [k](https://github.com/nvim-lua/lsp_extensions.nvim) Neovim built-in lsp extensions
-  - [k](https://github.com/glepnir/nvim-lua-guide-zh) nvim lua guide Chinese version
+  - [ksent](https://github.com/glepnir/zephyr-nvim) A dark neovim colorscheme Written in lua
+  - [ktabbed](https://github.com/nvim-lua/lsp_extensions.nvim) Neovim built-in lsp extensions
+
+<div align="center">
+  
+# ToDo this new acedemic year
+
+</div>
