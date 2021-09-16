@@ -44,7 +44,7 @@
 
 ### Scripts
 
-  - [taski](https://github.com/tcheukueppo/taski) Taski is a front-end to cli application use for daily activities
+  - [taski](https://github.com/tcheukueppo/taski) Taski is a front-end to cli applications use for daily activities
 
 <div align="center">
   
