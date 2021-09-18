@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2357A143.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/bash-%2300ADD8.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/perl-%23020000.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
+<img src="https://img.shields.io/badge/perl-%33020000.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++%20-%23007ACC.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/>
