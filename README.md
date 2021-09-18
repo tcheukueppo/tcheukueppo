@@ -41,7 +41,6 @@
   - [kslstatus](https://github.com/tcheukueppo/kslstatus) This is basic [slstatus](https://tools.suckless.org/dmenu/), nothing special added except 
   my awesome      config.h
   - [ksent](https://github.com/tcheukueppo/ksent) This is [sent](https://tools.suckless.org/sent/) with a lot featurss added
-  - [ktabbed](https://github.com/tcheukueppo/ktabbed) This is [tabbed](https://tools.suckless.org/tabbed/) with a lot featurss added
 
 ### Scripts
 
