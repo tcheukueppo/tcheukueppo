@@ -28,7 +28,7 @@
 <br>
 <div align="center">
   
-# What I did so far
+# What I did
 
 </div>
 
