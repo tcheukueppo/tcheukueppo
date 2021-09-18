@@ -66,3 +66,4 @@
 - Build a configurable prompt in Go/Bash
 - Build my blog with bootstrap
 - Build a telegram bot for filtering cs related links
+- Master django, mojolicious, and bootstrap web framework so as to build web applications
