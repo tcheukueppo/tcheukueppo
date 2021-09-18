@@ -49,15 +49,20 @@
 
 <div align="center">
   
-# Todo (2021-2022)
+# Todo
 
 </div>
 
 ### Small Projects
 
-- Build an ncurses-based system and network monitoring application in Go and Perl, making it accessible via http
+- Contribute to sfm, bringing a lot of features while keeping it minimal
+- Build an ncurses-based system and network monitoring application in sh/Go/Perl, making it accessible via http
+- Build an ncurses-based music player app in Sh/perl.
+- Build an ncurses-based imager viewer app in C
+- Build an ncurses-based online dictionary app in sh/perl
+- Build an ncurses-based weather app in sh/perl
 - Build conky themes in lua/perl/bash for monitoring projects's data, news, system, network, and many more, to do one every month
 - Build my own neovim and vis configuration entirely in lua with the most fastest plugins on earth
-- Build a configurable prompt in python
+- Build a configurable prompt in Go/Bash
 - Build my blog with bootstrap
 - Build a telegram bot for filtering cs related links
