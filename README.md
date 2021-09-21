@@ -55,7 +55,7 @@
 ### Small Projects
 
 - Contribute to sfm, bringing a lot of features while keeping it minimal
-- Build an ncurses-based system and network monitoring application in sh/go/Perl, making it accessible via http
+- Build an ncurses-based system and network monitoring application in sh/go/perl, making it accessible via http
 - Build an ncurses-based music player app in sh/perl
 - Build an ncurses-based imager viewer app in c
 - Build an ncurses-based online dictionary app in sh/perl
