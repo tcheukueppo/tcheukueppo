@@ -40,7 +40,7 @@
   - [kdmenu](https://github.com/tcheukueppo/kdmenu) This is [dmenu](https://tools.suckless.org/dmenu/) with a lot of featurss added
   - [kslstatus](https://github.com/tcheukueppo/kslstatus) This is basic [slstatus](https://tools.suckless.org/dmenu/), nothing special added except 
   my awesome      config.h
-  - [ksent](https://github.com/tcheukueppo/ksent) This is [sent](https://tools.suckless.org/sent/) with a lot featurss added
+  - [ksent](https://github.com/tcheukueppo/ksent) This is [sent](https://tools.suckless.org/sent/) with a lot of featurss added
 
 ### Scripts
 
