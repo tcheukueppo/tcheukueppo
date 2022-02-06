@@ -15,14 +15,11 @@
 
 ### TODO
   
-- Build an ncurses-based system and network monitoring application in sh/go/perl, making it accessible via http
-- Build an ncurses-based music player app in sh/perl
-- Build an ncurses-based imager viewer app in c
-- Build an ncurses-based online dictionary app in sh/perl
-- Build an ncurses-based weather app in sh/perl
+- Build an termbox system and network monitoring application in sh/go/perl, making it accessible via http
+- Build an termbox music player app in sh/perl
+- Build an termbox online dictionary app in sh/perl
+- Build an termbox weather app in sh/perl
 - Build conky themes in lua/perl/bash for monitoring projects's data, news, system, network, and many more, to do one every month
-- Build my own neovim and vis configuration entirely in lua with the most fastest plugins on earth
-- Build a configurable prompt in Go/Bash
-- Build my blog with bootstrap
+- Build a configurable prompt in sh
 - Build a telegram bot for filtering cs related links
 - Master django, mojolicious, and bootstrap web frameworks so as to build web applications
