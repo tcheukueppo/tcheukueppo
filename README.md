@@ -1,7 +1,4 @@
 <p align="center">
-  <img height=60% width=20% src="./sexy-anime-charizard-girl-12piukxtb1gctol5.jpg">
-</p>
-<p align="center">
 <b><a href="none"> My Blog </a></b>
 •
 <b><a href="none"> Telegram </a></b>
@@ -27,34 +24,9 @@
 </p>
 <br>
 <div align="center">
+
+### TODO
   
-# What I did
-
-</div>
-
-### Suckless tools
-
-  - [kdwm](https://github.com/tcheukueppo/kdwm) This is [dwm](https://dwm.suckless.org/) with a lot of features added
-  - [kst](https://github.com/tcheukueppo/kst) This is [st](https://st.suckless.org/) with a lot of featurss added
-  - [kslock](https://github.com/tcheukueppo/kslock) This is [slock](https://tools.suckless.org/slock/) with a lot of featurss added
-  - [kdmenu](https://github.com/tcheukueppo/kdmenu) This is [dmenu](https://tools.suckless.org/dmenu/) with a lot of featurss added
-  - [kslstatus](https://github.com/tcheukueppo/kslstatus) This is basic [slstatus](https://tools.suckless.org/dmenu/), nothing special added except 
-  my awesome      config.h
-  - [ksent](https://github.com/tcheukueppo/ksent) This is [sent](https://tools.suckless.org/sent/) with a lot of featurss added
-
-### Scripts
-
-  - [taski](https://github.com/tcheukueppo/taski) Taski is a front-end to cli applications use for daily activities
-
-<div align="center">
-  
-# Todo
-
-</div>
-
-### Small Projects
-
-- Contribute to sfm, bringing a lot of features while keeping it minimal
 - Build an ncurses-based system and network monitoring application in sh/go/perl, making it accessible via http
 - Build an ncurses-based music player app in sh/perl
 - Build an ncurses-based imager viewer app in c
