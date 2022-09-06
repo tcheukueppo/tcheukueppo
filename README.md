@@ -1,3 +1,1 @@
-**COMMON SENSE**
 
-**IS RAKU STILL SLOW?**
