@@ -1,1 +1,1 @@
-<iframe src="./static/demo.mp4" controls></iframe>
+<iframe src="./static/demo.mp4"></iframe>
